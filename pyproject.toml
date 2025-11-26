@@ -1,6 +1,6 @@
 [project]
 name = "ssb-libtest12"
-version = "0.0.0"
+version = "0.0.1"
 description = "SSB Libtest12"
 authors = [{ name = "Katharina Rossbach", email = "krc@ssb.no" }]
 maintainers = [{ name = "Statistics Norway, Methods Department (811)" }]
